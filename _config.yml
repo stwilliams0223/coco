@@ -3,3 +3,5 @@
 name: Scott Williams Coco Repo
 
 # Server Configurations
+
+baseurl: /coco
